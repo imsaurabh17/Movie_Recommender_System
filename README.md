@@ -68,3 +68,9 @@ NumPy - Support for large, multi-dimensional arrays and matrices
 Scikit-learn - Machine learning in Python
 NLTK - Natural Language Toolkit for Python
 Streamlit - Open-source app framework
+
+**Let's Connect**
+Have questions, suggestions, or just want to chat cricket? Reach out to us! We're always eager to engage with fellow enthusiasts and collaborators.
+
+Email: saurabhdubey222786@gmail.com
+LinkedIn: https://www.linkedin.com/in/imsaurabh17/
